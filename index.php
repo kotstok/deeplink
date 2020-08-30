@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- // header('Location: bpayapp://package//937c222d711a0ca238d3e9ef034601ad');
-    // header('Location: https://play.google.com/store/apps/details?id=com.bpayqr'); -->
 
 <head>
     <meta charset="UTF-8">
